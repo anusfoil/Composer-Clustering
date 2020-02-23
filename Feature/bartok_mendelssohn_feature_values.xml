@@ -1,0 +1,1499 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/bartok/abarbaro.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.5E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>6.7E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.292E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-2.132E-2</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.673E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1.2E1</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>5.266E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>5.493E-2</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>4.446E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>1.099E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>1.568E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>2.49E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.103E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>4.198E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>8.399E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>1.156E0</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>9.092E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.432E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>6E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>1.776E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>7.688E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>1.81E2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.691E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>1.25E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>2.101E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>2.737E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>2.771E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>1.033E-1</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>3.46E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>1.153E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/bartok/arobusto.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>2.8E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>4.8E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>6E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>9.721E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-2.297E-2</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>6.07E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>1.5E1</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>5.138E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>6.63E-2</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.105E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>7.735E-2</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>9.645E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>3.648E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>2.899E-2</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>7.648E-2</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>4.911E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>1.602E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>1.484E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.482E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>6E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>1.463E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2.415E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>1.37E2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>3.482E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>2E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>2.121E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>4.697E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>1.97E-1</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>1.212E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>2.071E-1</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/bartok/bag6_1.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>3.1E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>3.5E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>8.603E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-6.718E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.185E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>2.13E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>1.852E-2</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.389E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5.741E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>4.245E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>8.354E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>3.819E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>9.731E-2</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>8.842E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>1.024E0</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>2.722E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.165E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>2.062E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>9.952E-1</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>6.5E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>4.207E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>6.667E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>2.824E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>1.882E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>7.059E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>4.588E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>8.699E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/bartok/bag6_10.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.4E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>7.1E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.39E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>2.149E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.231E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>7E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>4.334E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>1.76E-2</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>7.628E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>1.383E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>4.94E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>4.865E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>4.995E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>4.359E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>6.048E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>6.349E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>7.647E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.013E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>1.23E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3.02E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>9.2E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.382E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>3.75E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>1.497E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>3.302E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>1.843E-1</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>3.358E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>2.202E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/bartok/bag6_2.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>4.3E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>5.9E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>9.416E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-5.87E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>6.305E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>4.535E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>1.982E-1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.231E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3.634E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>5.281E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>2.949E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>6.11E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>3.376E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>2.836E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>5.856E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>4.348E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>2.798E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>9.949E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>3.895E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>7.5E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.504E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>3.333E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>2.5E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>2E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>5E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>5E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>2.168E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/mendelssohn/fantasyf.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.6E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>6.5E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.368E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-3.807E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.528E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>6.349E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>5.006E-2</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>5.713E-2</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>1.119E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>3.924E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>3.864E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.978E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>2.505E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>3.474E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>5.945E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>5.694E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>1.87E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>3E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>3.963E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>6.139E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>5.5E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.945E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>5E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>4.412E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>7.573E-2</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>1.864E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>9.452E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>6.434E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>1.598E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/mendelssohn/gp_2ital.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.1E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>6.4E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.33E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-3.989E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.275E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>3.511E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>1.248E-1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>2.482E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>5.287E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>4.095E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>4.93E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.577E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>3.134E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>5.124E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>5.307E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>1.263E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.155E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>8.965E0</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2.711E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>6.4E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>4.203E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>6.667E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E1</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>2.549E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>1.755E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>1.604E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>1.461E-1</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>5.18E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>1.816E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/mendelssohn/ital-1.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.7E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>6.7E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>5E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.266E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>1.005E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.508E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>6.034E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>3.16E-1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.147E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>2.762E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>4.759E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>3.046E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.792E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>2.348E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>6.728E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>9.875E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>8.362E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>3.331E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>6E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>3.563E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>2.073E1</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>7.4E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.435E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>2.222E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>9E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>6.483E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>1.186E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>2.72E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>8.992E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>5.195E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>1.308E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/mendelssohn/ital-2.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>5.2E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>5.7E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.154E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>6.492E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.012E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>4.167E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>1.011E-1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.846E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3.987E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>4.368E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>5.418E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.821E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>3.14E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>5.619E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>4.762E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>6.622E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>1.479E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>1.644E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>4.405E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>4E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>1.479E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>4E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>6E0</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>2.453E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>7.502E-2</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>3.059E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>7.918E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>5.399E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>9.028E0</v>
+		</feature>
+	</data_set>
+
+	<data_set>
+		<data_set_id>/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Data/mendelssohn/ital-4.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>6.5E1</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>6.5E1</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>4E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.287E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Skewness</name>
+			<v>-4.404E-1</v>
+		</feature>
+		<feature>
+			<name>Pitch Kurtosis</name>
+			<v>5.477E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Amount of Arpeggiation</name>
+			<v>5.115E-1</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>3.062E-1</v>
+		</feature>
+		<feature>
+			<name>Chromatic Motion</name>
+			<v>1.692E-1</v>
+		</feature>
+		<feature>
+			<name>Stepwise Motion</name>
+			<v>3.713E-1</v>
+		</feature>
+		<feature>
+			<name>Direction of Melodic Motion</name>
+			<v>3.794E-1</v>
+		</feature>
+		<feature>
+			<name>Melodic Pitch Variety</name>
+			<v>2.921E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Dissonance Ratio</name>
+			<v>1.512E-1</v>
+		</feature>
+		<feature>
+			<name>Non-Standard Chords</name>
+			<v>3.264E-1</v>
+		</feature>
+		<feature>
+			<name>Metrical Diversity</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Mean Rhythmic Value</name>
+			<v>4.822E-1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Value Variability</name>
+			<v>8.348E-1</v>
+		</feature>
+		<feature>
+			<name>Complete Rests Fraction</name>
+			<v>9.432E-2</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability - Tempo Standardized</name>
+			<v>2.455E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms - Tempo Standardized</name>
+			<v>3.75E-1</v>
+		</feature>
+		<feature>
+			<name>Note Density</name>
+			<v>2.141E1</v>
+		</feature>
+		<feature>
+			<name>Note Density Variability</name>
+			<v>9.007E0</v>
+		</feature>
+		<feature>
+			<name>Strongest Rhythmic Pulse</name>
+			<v>6.7E1</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>2.314E-2</v>
+		</feature>
+		<feature>
+			<name>Polyrhythms</name>
+			<v>2.222E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitched Instruments</name>
+			<v>1E1</v>
+		</feature>
+		<feature>
+			<name>Number of Unpitched Instruments</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Voice Equality - Number of Notes</name>
+			<v>5.195E2</v>
+		</feature>
+		<feature>
+			<name>Parallel Motion</name>
+			<v>1.275E-1</v>
+		</feature>
+		<feature>
+			<name>Similar Motion</name>
+			<v>2.349E-1</v>
+		</feature>
+		<feature>
+			<name>Contrary Motion</name>
+			<v>6.59E-2</v>
+		</feature>
+		<feature>
+			<name>Oblique Motion</name>
+			<v>5.716E-1</v>
+		</feature>
+		<feature>
+			<name>Average Note to Note Change in Dynamics</name>
+			<v>6.099E-2</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>

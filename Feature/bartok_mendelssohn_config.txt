@@ -1,0 +1,44 @@
+<jSymbolic_options>
+window_size=0.0
+window_overlap=0.0
+save_features_for_each_window=false
+save_overall_recording_features=true
+convert_to_arff=true
+convert_to_csv=true
+<features_to_extract>
+Number of Pitches
+Number of Common Pitches
+Range
+Dominant Spread
+Strong Tonal Centres
+Pitch Variability
+Pitch Skewness
+Pitch Kurtosis
+Most Common Melodic Interval
+Amount of Arpeggiation
+Repeated Notes
+Chromatic Motion
+Stepwise Motion
+Direction of Melodic Motion
+Melodic Pitch Variety
+Vertical Dissonance Ratio
+Non-Standard Chords
+Metrical Diversity
+Mean Rhythmic Value
+Rhythmic Value Variability
+Complete Rests Fraction
+Rhythmic Variability - Tempo Standardized
+Polyrhythms - Tempo Standardized
+Note Density
+Note Density Variability
+Strongest Rhythmic Pulse
+Rhythmic Variability
+Polyrhythms
+Number of Pitched Instruments
+Number of Unpitched Instruments
+Voice Equality - Number of Notes
+Parallel Motion
+Similar Motion
+Contrary Motion
+Oblique Motion
+Average Note to Note Change in Dynamics

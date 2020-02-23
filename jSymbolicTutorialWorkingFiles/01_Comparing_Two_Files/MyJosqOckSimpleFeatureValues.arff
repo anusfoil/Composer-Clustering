@@ -1,0 +1,9 @@
+@relation Converted_from_ACE_XML
+
+@attribute Range numeric
+@attribute Most_Common_Pitch numeric
+@attribute Most_Common_Pitch_Class numeric
+
+@data
+34.0, 60.0, 0.0
+26.0, 55.0, 7.0
