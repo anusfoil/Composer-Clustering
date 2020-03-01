@@ -1,0 +1,59 @@
+<jSymbolic_options>
+window_size=0.0
+window_overlap=0.0
+save_features_for_each_window=false
+save_overall_recording_features=true
+convert_to_arff=true
+convert_to_csv=true
+<features_to_extract>
+Basic Pitch Histogram
+Pitch Class Histogram
+Folded Fifths Pitch Class Histogram
+Range
+Dominant Spread
+Strong Tonal Centres
+Pitch Variability
+Pitch Class Variability
+Pitch Skewness
+Pitch Kurtosis
+Melodic Interval Histogram
+Chromatic Motion
+Stepwise Motion
+Average Length of Melodic Arcs
+Average Interval Spanned by Melodic Arcs
+Melodic Pitch Variety
+Vertical Interval Histogram
+Chord Type Histogram
+Average Number of Simultaneous Pitch Classes
+Average Number of Simultaneous Pitches
+Vertical Octaves
+Perfect Vertical Intervals
+Vertical Dissonance Ratio
+Standard Triads
+Non-Standard Chords
+Complex Chords
+Initial Time Signature
+Metrical Diversity
+Total Number of Notes
+Range of Rhythmic Values
+Number of Different Rhythmic Values Present
+Rhythmic Value Variability
+Rhythmic Value Median Run Lengths Histogram
+Number of Strong Rhythmic Pulses - Tempo Standardized
+Rhythmic Variability - Tempo Standardized
+Polyrhythms - Tempo Standardized
+Tempo Variability
+Duration in Seconds
+Note Density
+Note Density Variability
+Pitched Instruments Present
+Note Prevalence of Pitched Instruments
+Note Prevalence of Unpitched Instruments
+Number of Pitched Instruments
+Maximum Number of Independent Voices
+Variability of Number of Independent Voices
+Voice Equality - Number of Notes
+Voice Separation
+Parallel Motion
+Dynamic Range
+Variation of Dynamics

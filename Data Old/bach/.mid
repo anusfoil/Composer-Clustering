@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<title>404</title>
+<link rel="stylesheet" href="/css/styles.css" type="text/css" />
+
+
+
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+    <link rel="stylesheet" type="text/css" href="/ouibounce.css?eess">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.11/ouibounce.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script type="text/javascript">
+_uacct = "UA-2284264-5";
+urchinTracker();
+</script>
+</head>
+<body>
+<div id="wrap">
+	<div id="header">
+		<div id="header-text">
+			<h1><a href="/">MIDI<span>WORLD</span>.COM</a></h1>
+		</div>
+						<div style="float:right;margin-top:-50px;margin-right:50px">
+	<a href="https://www.linkev.com/?a_fid=3661" rel="nofollow"><img src="/MIDI_topbannerexpress.gif"></a>
+</div>
+			</div>
+
+	<div id="navigation">
+		<ul>
+			      <li ><a href="/">MAIN</a></li>
+			      <li ><a href="/basics/">BASICS</a></li>
+			      <li ><a href="/faq/">FAQ</a></li>
+			      <li ><a href="/files/">FILES</a></li>
+			      <li ><a href="/midi-forum/">MIDI-FORUM</a></li>
+			      <li ><a href="/forum/">FORUM</a></li>
+					</ul>
+	</div>
+	
+	<div id="content">
+
+	  <div id="page">
+	      </div>
+		
+		<div id="sidebar">
+		  <form method="GET" action="/search/">		    
+		    <input type="text" name="q" style="width:285px">
+		    <input type="submit" value="search" class="button">
+		  </form>
+		  
+			<h3>midi <strong>genres/directions</strong></h3>
+			<div class="midis-cloud">
+			<ul>
+						<li><a class="w2" href="/search/?q=classic">classic</a></li>
+						<li><a class="w2" href="/search/?q=pop">pop</a></li>
+						<li><a class="w2" href="/search/?q=rock">rock</a></li>
+						<li><a class="w2" href="/search/?q=rap">rap</a></li>
+						<li><a class="w2" href="/search/?q=dance">dance</a></li>
+						<li><a class="w2" href="/search/?q=punk">punk</a></li>
+						<li><a class="w2" href="/search/?q=blues">blues</a></li>
+						<li><a class="w2" href="/search/?q=country">country</a></li>
+						<li><a class="w2" href="/search/?q=movie themes">movie themes</a></li>
+						<li><a class="w2" href="/search/?q=tv themes">tv themes</a></li>
+						<li><a class="w2" href="/search/?q=christmas carols">christmas carols</a></li>
+						<li><a class="w2" href="/search/?q=video game themes">video game themes</a></li>
+						<li><a class="w2" href="/search/?q=disney themes">disney themes</a></li>
+						<li><a class="w2" href="/search/?q=national anthems">national anthems</a></li>
+						<li><a class="w2" href="/search/?q=jazz">jazz</a></li>
+						<li><a class="w2" href="/search/?q=hip-hop">hip-hop</a></li>
+						</ul>
+			</div>
+
+		  <h3>top <strong>artists/composers</strong></h3>
+			<ul>
+						  <li>1. <a href="/files/3266">???</a></li>
+						  <li>2. <a href="/files/2092"> goodbye horses </a></li>
+						  <li>3. <a href="/files/3163">12345gfdcgjhhhh</a></li>
+						  <li>4. <a href="/files/3624">Harvest Moon - Town</a></li>
+						  <li>5. <a href="/files/3626">run</a></li>
+						  <li>6. <a href="/files/3620">Unknown brain</a></li>
+						  <li>7. <a href="/files/3618">Aidoru Sozai</a></li>
+						  <li>8. <a href="/files/3615">juwita bahar</a></li>
+						  <li>9. <a href="/files/3604">Surip</a></li>
+						  <li>10. <a href="/files/3612">Rhulz</a></li>
+						</ul>
+			
+			
+		</div>
+
+		<div class="footer">
+			<p>Copyright &copy; 1995-2009 MIDIWORLD All rights reserved</p>
+		</div>
+	</div>
+</div>
+
+<div id="ouibounce-modal" style="z-index: 10;">
+    <div class="underlay"></div>
+    <div class="modal">
+
+        <img src="/Express_Ad.jpg" width="550" height="400" alt="popup" usemap="#popmap">
+
+        <map name="popmap">
+
+            <area shape="rect" coords="118,324,440,387" href="https://www.linkev.com/?a_fid=3661" target="_blank">
+            <area shape="rect" coords="511,9,542,40" onclick="document.getElementById('ouibounce-modal').style.display = 'none';">
+
+        </map>
+    </div>
+</div>
+
+<script>
+    /*var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'),{
+        aggressive: false, //Making this true makes ouibounce not to obey "once per visitor" rule
+        timer: 2000
+    });*/
+    $(document).ready(function () {
+        // if the cookie is undefined, create it
+        if(typeof Cookies.get('visited') === "undefined"){
+            Cookies.set("visited", 0);
+        }
+        // Cookies.get('visited') returns a string
+        if (parseInt(Cookies.get('visited')) >= 2) {
+
+            setTimeout(function () {
+                document.getElementById('ouibounce-modal').style.display='block';
+            }, 3000);
+        } else {
+            let increase = parseInt(Cookies.get('visited')) + 1;
+            Cookies.set('visited', increase, { expires: 1 });
+            return false;
+        }
+    }); // ready
+
+</script>
+</body>
+</html>
