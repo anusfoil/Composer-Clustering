@@ -15,7 +15,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 composers = ["dandrieu", "soler",
 			 "dvorak", "schumann",
-			 "buxehude", "faure",
+			 "butxehude", "faure",
 			 "scriabin", "byrd",
 			 "shostakovich", "brahms",
 			 "chopin", "debussy",
@@ -24,8 +24,8 @@ composers = ["dandrieu", "soler",
 			 "haydn", "beethoven",
 			 "scarlatti", "bach"]
 
-in_dir = "0229_Experiment/processed_csv/"
-out_dir = "0229_Experiment/result/"
+in_dir = "0229_Experiment/41_processed_csv/"
+out_dir = "0229_Experiment/41_result/"
 
 # files: an array of csv file names. We will combine the files 
 # csv format: [index] [file name] [y-column] [feature] [feature] ... [feature]
@@ -51,7 +51,7 @@ def run_clustering(algo, files):
 	# get rid of the labels and names, this is the data to run
 	comp_data = all_compositions.iloc[:, 3:]
 
-	print(comp_data)
+	# print(comp_data)
 
 	# sys.exit()
 
@@ -66,12 +66,12 @@ def run_clustering(algo, files):
 	#Cluster the data
 	
 	
-
 	if algo == "kmeans":
 		kmeans = KMeans(n_clusters=n, random_state=0).fit(comp_data)
 		labels = kmeans.labels_
 	if algo == "spectral":
-		spectral = SpectralClustering(n_clusters=n, assign_labels="discretize", random_state=0).fit(comp_data)
+		spectral = SpectralClustering(n_clusters=n, affinity="rbf",
+			assign_labels="kmeans", random_state=0).fit(comp_data)
 		labels = spectral.labels_
 	if algo == "meanshift":
 		meanshift = MeanShift(bandwidth=30).fit(comp_data)
@@ -111,10 +111,44 @@ Format 6: All music
 
 '''
 f1_e1 = ["f1_e1", "dandrieu_all.csv", "soler_all.csv"]
-f1_e2 = []
-run_clustering("kmeans", f1_e1)
+f1_e2 = ["f1_e2", "dvorak_all.csv", "schumann_all.csv"]
+f1_e3 = ["f1_e3", "buxtehude_all.csv", "faure_all.csv"]
+f1_e4 = ["f1_e4", "scriabin_all.csv", "byrd_all.csv"]
+f1_e5 = ["f1_e5", "shostakovich_all.csv", "brahms_all.csv"]
+f1_e6 = ["f1_e6", "chopin_all.csv", "debussy_all.csv"]
+f1_e7 = ["f1_e7", "schubert_all.csv", "alkan_all.csv"]
+f1_e8 = ["f1_e8", "handel_all.csv", "mozart_all.csv"]
+f1_e9 = ["f1_e9", "haydn_all.csv", "beethoven_all.csv"]
+f1_e10 = ["f1_e10", "scarlatti_all.csv", "bach_all.csv"]
+
+f1s = [f1_e1, f1_e2, f1_e3, f1_e4, f1_e5, f1_e6,
+		f1_e7, f1_e8, f1_e9, f1_e10]
+
+# f1s = [f1_e1]
+
+f4 = ["f4", "handel_all.csv", "bach_all.csv", 
+		"scarlatti_all.csv", "beethoven_all.csv", 
+		"mozart_all.csv", "schubert_all.csv",
+		"brahms_all.csv", "debussy_all.csv",
+		"dvorak_all.csv", "shostakovich_all.csv"]
+
+f6 = ["dandrieu_all.csv", "soler_all.csv",
+	"dvorak_all.csv", "schumann_all.csv",
+	"buxtehude_all.csv", "faure_all.csv",
+	"scriabin_all.csv", "byrd_all.csv",
+	"shostakovich_all.csv", "brahms_all.csv",
+	"chopin_all.csv", "debussy_all.csv",
+	"schubert_all.csv", "alkan_all.csv",
+	"handel_all.csv", "mozart_all.csv",
+	"haydn_all.csv", "beethoven_all.csv",
+	"scarlatti_all.csv", "bach_all.csv"]
+
+# for x in f1s:
+# 	# run_clustering("kmeans", x)
+# 	run_clustering("spectral", x)
 
 
+run_clustering("kmeans", f1_e3)
 
 
 

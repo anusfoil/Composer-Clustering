@@ -1,0 +1,69 @@
+<jSymbolic_options>
+window_size=0.0
+window_overlap=0.0
+save_features_for_each_window=false
+save_overall_recording_features=true
+convert_to_arff=true
+convert_to_csv=true
+<features_to_extract>
+Number of Pitches
+Number of Common Pitches
+Range
+Dominant Spread
+Strong Tonal Centres
+Pitch Variability
+Pitch Skewness
+Pitch Kurtosis
+Most Common Melodic Interval
+Amount of Arpeggiation
+Repeated Notes
+Chromatic Motion
+Stepwise Motion
+Direction of Melodic Motion
+Average Length of Melodic Arcs
+Average Interval Spanned by Melodic Arcs
+Melodic Pitch Variety
+Vertical Dissonance Ratio
+Non-Standard Chords
+Complex Chords
+Initial Time Signature
+Metrical Diversity
+Mean Rhythmic Value
+Rhythmic Value Variability
+Complete Rests Fraction
+Rhythmic Variability - Tempo Standardized
+Polyrhythms - Tempo Standardized
+Note Density
+Note Density Variability
+Strongest Rhythmic Pulse
+Rhythmic Variability
+Polyrhythms
+Number of Pitched Instruments
+Voice Equality - Number of Notes
+Parallel Motion
+Similar Motion
+Contrary Motion
+Oblique Motion
+Average Note to Note Change in Dynamics
+<input_files>
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv136_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv137_(c)mccoy.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv137_(fenske).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv137_(mccloskey).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv139_(c)mccoy.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv139_(luquet).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv140_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv141_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv142_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv143_(mccloskey).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv143_(unknown).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv144_(mccloskey).mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv145_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv145_(c)mccoy.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv146_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv147_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv148_(c)maclean.mid
+/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/New Data Selection/buxtehude_(c)contributors-kunstderfuge/buxwv149_(c)maclean.mid
+<output_files>
+feature_values_save_path=/Users/huanzhang/01Acdemics/College/2020Spring/10701_IntroToML/Project/0229_Experiment/41_csv/buxtehude_part.xml
+feature_definitions_save_path=./feature_definitions.xml
