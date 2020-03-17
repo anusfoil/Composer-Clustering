@@ -41,22 +41,23 @@ def print_4_metrics(result, verbose=False):
 
 	return (a, b, c, d)
 
-aa = []
-bb = []
-cc = []
-dd = []
-for i in range(1, 11):
-	result = pd.read_csv("0229_Experiment/result/f1_e" + str(i) + "_kmeans.csv")
-	a, b, c, d = print_4_metrics(result)
-	aa.append(a)
-	bb.append(b)
-	cc.append(c)
-	dd.append(d)
+result = pd.read_csv("0229_Experiment/41_result/f1_e3_kmeans.csv")
+a, b, c, d = print_4_metrics(result, verbose=True)
 
-print(aa)
-print(bb)
-print(cc)
-print(dd)
+# aa, bb, cc, dd = [], [], [], []
+# for i in range(1, 11):
+# 	result = pd.read_csv("0229_Experiment/result/f1_e" + str(i) + "_kmeans.csv")
+# 	a, b, c, d = print_4_metrics(result, verbose=True)
+# 	print("\n \n")
+# 	aa.append(a)
+# 	bb.append(b)
+# 	cc.append(c)
+# 	dd.append(d)
+
+# print(aa)
+# print(bb)
+# print(cc)
+# print(dd)
 
 # 1, 5, 7 
 

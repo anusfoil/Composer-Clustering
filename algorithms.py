@@ -67,17 +67,17 @@ def run_clustering(algo, files):
 	
 	
 	if algo == "kmeans":
-		kmeans = KMeans(n_clusters=n, random_state=0).fit(comp_data)
+		kmeans = KMeans(n_clusters=n, random_state=0).fit(comp_data_std)
 		labels = kmeans.labels_
 	if algo == "spectral":
 		spectral = SpectralClustering(n_clusters=n, affinity="rbf",
-			assign_labels="kmeans", random_state=0).fit(comp_data)
+			assign_labels="kmeans", random_state=0).fit(comp_data_std)
 		labels = spectral.labels_
 	if algo == "meanshift":
-		meanshift = MeanShift(bandwidth=30).fit(comp_data)
+		meanshift = MeanShift(bandwidth=30).fit(comp_data_std)
 		labels = meanshift.labels_
 	if algo == "agglo":
-		agglo = AgglomerativeClustering(n_clusters=n, affinity='euclidean',linkage='ward').fit(comp_data)
+		agglo = AgglomerativeClustering(n_clusters=n, affinity='euclidean',linkage='ward').fit(comp_data_std)
 		labels = agglo.labels_
 	
 
@@ -144,8 +144,8 @@ f6 = ["dandrieu_all.csv", "soler_all.csv",
 	"scarlatti_all.csv", "bach_all.csv"]
 
 # for x in f1s:
-# 	# run_clustering("kmeans", x)
-# 	run_clustering("spectral", x)
+# 	run_clustering("kmeans", x)
+	# run_clustering("spectral", x)
 
 
 run_clustering("kmeans", f1_e3)
