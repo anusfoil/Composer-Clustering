@@ -46,14 +46,14 @@ def get_piano_roll_matrix(midi_data, start_pitch, end_pitch, fs=50, draw=False):
     return np.array(matrix).flatten()
 
 
-for filename in os.listdir(data_dir + bach_dir):
-    if ".mid" in filename:
-        midi_data = pretty_midi.PrettyMIDI(data_dir + bach_dir + filename)
-        l = midi_data.get_end_time()
-        # scale the sampling frequency by the length of data, so the picture is 
-        # of the same size
-        fs = 50 * (10000/(l * 50 - 1))
-        get_piano_roll_matrix(midi_data, 60, 96, fs=fs)
+# for filename in os.listdir(data_dir + bach_dir):
+#     if ".mid" in filename:
+#         midi_data = pretty_midi.PrettyMIDI(data_dir + bach_dir + filename)
+#         l = midi_data.get_end_time()
+#         # scale the sampling frequency by the length of data, so the picture is 
+#         # of the same size
+#         fs = 50 * (10000/(l * 50 - 1))
+#         get_piano_roll_matrix(midi_data, 60, 96, fs=fs)
 
 def get_test_bach_beethoven():
     
