@@ -1,0 +1,5 @@
+soler_(c)contributors-kunstderf, soler_(c)contributors-kunstderf
+acc: 0.5
+vms: -1.1289248733763524e-15
+nmi: -1.7434907657449984e-15
+ari: -0.0007057139076533626

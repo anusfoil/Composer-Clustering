@@ -1,0 +1,5 @@
+chopin_, chopin_
+acc: 0.5
+vms: 0.0
+nmi: 0.0
+ari: -9.224665301818083e-05

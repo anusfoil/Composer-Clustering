@@ -1,0 +1,5 @@
+buxtehude_(c)contributors-kunstderf, scriabin_(c)contributors-kunstderf
+acc: 0.6428571428571429
+vms: 0.07198927976141037
+nmi: 0.07198927976141037
+ari: 0.07554159087150661

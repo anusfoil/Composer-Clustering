@@ -195,7 +195,7 @@ def read_comp(comp):
     img = np.asarray(Image.open("{}/{}".format(path, filename)).convert("L"))
     print(img.shape)
 
-read_comp(debussy_dir)
+# read_comp(debussy_dir)
 
 def get_train_data(train_comps):
     

@@ -1,0 +1,5 @@
+buxtehude_(c)contributors-kunstderf, soler_(c)contributors-kunstderf
+acc: 0.5491803278688525
+vms: 0.0008808196636094579
+nmi: 0.0008808196636094579
+ari: -0.0011161389219734163

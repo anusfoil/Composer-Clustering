@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, haydn_
+acc: 0.7098540145985401
+vms: 0.06988411627902551
+nmi: 0.0698841162790255
+ari: 0.13692637094826043

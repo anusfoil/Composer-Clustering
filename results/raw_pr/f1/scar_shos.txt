@@ -1,0 +1,5 @@
+scarlatti_, shostakovich_(c)contributors-kunstderf
+acc: 0.8488549618320611
+vms: 0.013109796808378165
+nmi: 0.041158324277513474
+ari: 0.013814704885572073

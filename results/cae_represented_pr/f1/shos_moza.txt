@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, mozart_
+acc: 0.65625
+vms: 0.04422985379202119
+nmi: 0.044229853792021184
+ari: 0.08229142228961257

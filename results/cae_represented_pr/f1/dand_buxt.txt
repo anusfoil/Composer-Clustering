@@ -1,0 +1,5 @@
+dandrieu_(c)contributors-kunstderf, buxtehude_(c)contributors-kunstderf
+acc: 0.6363636363636364
+vms: 0.06082917766091452
+nmi: 0.06082917766091452
+ari: 0.06814727351724005

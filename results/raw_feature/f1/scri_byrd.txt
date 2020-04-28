@@ -1,0 +1,5 @@
+scriabin_all, byrd_all
+acc: 1.0
+vms: 1.0
+nmi: 1.0
+ari: 1.0

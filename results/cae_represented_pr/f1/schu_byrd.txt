@@ -1,0 +1,5 @@
+schumann_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
+acc: 0.8411764705882353
+vms: 0.35870113971794054
+nmi: 0.35870113971794054
+ari: 0.4620488754626934

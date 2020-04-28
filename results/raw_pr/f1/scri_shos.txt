@@ -1,0 +1,5 @@
+scriabin_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
+acc: 0.5297297297297298
+vms: 0.017879608063446097
+nmi: 0.03302031748090514
+ari: -0.003008073414685673

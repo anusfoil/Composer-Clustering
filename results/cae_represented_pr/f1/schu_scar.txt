@@ -1,0 +1,5 @@
+schumann_(c)contributors-kunstderf, scarlatti_
+acc: 0.7126805778491172
+vms: 0.13876550538633525
+nmi: 0.13876550538633528
+ari: 0.14556473596590402

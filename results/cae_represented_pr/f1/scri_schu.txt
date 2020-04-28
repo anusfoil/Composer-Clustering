@@ -1,0 +1,5 @@
+scriabin_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
+acc: 0.5686274509803921
+vms: 0.01809001139407626
+nmi: 0.018090011394076264
+ari: 0.01229051403279345

@@ -1,0 +1,5 @@
+chopin_all, chopin_all
+acc: 0.5
+vms: -2.562741203051941e-15
+nmi: -2.5627412030519373e-15
+ari: 0.0

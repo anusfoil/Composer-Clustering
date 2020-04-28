@@ -1,0 +1,5 @@
+byrd_(c)contributors-kunstderf, haydn_
+acc: 0.94
+vms: 0.5732850900120747
+nmi: 0.5732850900120746
+ari: 0.7372284940087778

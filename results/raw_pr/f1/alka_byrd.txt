@@ -1,0 +1,5 @@
+alkan_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
+acc: 0.9477124183006536
+vms: 0.7015128923616563
+nmi: 0.7017274242969078
+ari: 0.7974802374369631

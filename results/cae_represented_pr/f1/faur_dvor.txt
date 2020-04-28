@@ -1,0 +1,5 @@
+faure_(c)contributors-kunstderf, dvorak_(c)contributors-kunstderf
+acc: 0.562962962962963
+vms: 0.01076376045401786
+nmi: 0.01076376045401786
+ari: 0.00887612717186783

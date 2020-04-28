@@ -1,0 +1,5 @@
+alkan_all, alkan_all
+acc: 0.5
+vms: 0.0
+nmi: 0.0
+ari: 0.0

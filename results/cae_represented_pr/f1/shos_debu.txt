@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, debussy_
+acc: 0.5018050541516246
+vms: 0.000375636256602976
+nmi: 0.000375636256602976
+ari: -0.00394795127817243

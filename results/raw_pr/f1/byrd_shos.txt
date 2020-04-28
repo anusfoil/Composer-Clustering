@@ -1,0 +1,5 @@
+byrd_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
+acc: 0.9257425742574258
+vms: 0.6866960935781596
+nmi: 0.6867127532606947
+ari: 0.7236782486659713
