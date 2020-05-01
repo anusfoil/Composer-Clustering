@@ -1,0 +1,5 @@
+byrd_(c)contributors-kunstderf, handel_, chopin_, scriabin_(c)contributors-kunstderf
+acc: 0.48983050847457626
+vms: 0.20924166697665075
+nmi: 0.20924166697665075
+ari: 0.17086779440182442

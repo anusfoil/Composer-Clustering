@@ -1,0 +1,5 @@
+scriabin_all, shostakovich_all, debussy_all, alkan_all
+acc: 0.42334494773519166
+vms: 0.19069963807743273
+nmi: 0.1918524725793078
+ari: 0.1082084777231926

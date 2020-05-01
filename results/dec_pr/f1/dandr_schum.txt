@@ -1,0 +1,5 @@
+dandrieu_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
+acc: 0.7633587786259542
+vms: 0.21277053369621018
+nmi: 0.21277053369621018
+ari: 0.2719343683165608

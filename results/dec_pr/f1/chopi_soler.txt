@@ -1,0 +1,5 @@
+chopin_, soler_(c)contributors-kunstderf
+acc: 0.605
+vms: 0.07832121998240484
+nmi: 0.07832121998240484
+ari: 0.037323083462502286

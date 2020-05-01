@@ -1,0 +1,5 @@
+scarlatti_all, mozart_all, faure_all, shostakovich_all
+acc: 0.7119565217391305
+vms: 0.601355685999062
+nmi: 0.6022572616078692
+ari: 0.6703431581475576

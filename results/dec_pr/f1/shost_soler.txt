@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, soler_(c)contributors-kunstderf
+acc: 0.5424836601307189
+vms: 0.001277980727556929
+nmi: 0.001277980727556929
+ari: -0.0007424243681097498

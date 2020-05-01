@@ -1,0 +1,5 @@
+alkan_(c)contributors-kunstderf, dandrieu_(c)contributors-kunstderf
+acc: 0.6179775280898876
+vms: 0.0011173748668956492
+nmi: 0.0011173748668956494
+ari: 0.010741728624942461

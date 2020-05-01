@@ -1,0 +1,5 @@
+soler_(c)contributors-kunstderf, chopin_
+acc: 0.665
+vms: 0.10179329335685082
+nmi: 0.10179329335685083
+ari: 0.10508565018825067

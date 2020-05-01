@@ -1,0 +1,5 @@
+schumann_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
+acc: 0.6130952380952381
+vms: 0.047840220186074645
+nmi: 0.047840220186074645
+ari: 0.04531850853411969

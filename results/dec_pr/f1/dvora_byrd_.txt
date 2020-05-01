@@ -1,0 +1,5 @@
+dvorak_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
+acc: 0.9041916167664671
+vms: 0.6279608127560123
+nmi: 0.6279608127560123
+ari: 0.6514734100628989

@@ -1,0 +1,5 @@
+scriabin_(c)contributors-kunstderf, beethoven_
+acc: 0.6900584795321637
+vms: 0.042553387560942894
+nmi: 0.0425533875609429
+ari: 0.09775457335243476

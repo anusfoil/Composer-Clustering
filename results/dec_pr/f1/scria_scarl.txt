@@ -1,0 +1,5 @@
+scriabin_(c)contributors-kunstderf, scarlatti_
+acc: 0.5796875
+vms: 0.06512076780280164
+nmi: 0.06512076780280164
+ari: 0.024512398015631955

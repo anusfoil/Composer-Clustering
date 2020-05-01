@@ -1,0 +1,5 @@
+dvorak_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
+acc: 0.5263157894736842
+vms: 0.0019401531038264143
+nmi: 0.001940153103826414
+ari: -0.004828349240939103

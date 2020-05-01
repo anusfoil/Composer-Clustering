@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, chopin_
+acc: 0.6356275303643725
+vms: 0.04490991854097629
+nmi: 0.0449099185409763
+ari: 0.06902080066892544

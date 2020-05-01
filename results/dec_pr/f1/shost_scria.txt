@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, scriabin_(c)contributors-kunstderf
+acc: 0.6
+vms: 0.03200708790401206
+nmi: 0.03200708790401206
+ari: 0.034779143394959126

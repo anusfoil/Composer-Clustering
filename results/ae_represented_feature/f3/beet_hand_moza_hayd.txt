@@ -1,0 +1,5 @@
+beethoven_all, handel_all, mozart_all, haydn_all
+acc: 0.4538606403013183
+vms: 0.14908378110921353
+nmi: 0.14908378110921353
+ari: 0.11478799374946216

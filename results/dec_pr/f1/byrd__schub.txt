@@ -1,0 +1,5 @@
+byrd_(c)contributors-kunstderf, schubert_
+acc: 0.887719298245614
+vms: 0.48646188614476676
+nmi: 0.4864618861447668
+ari: 0.5987618643958952

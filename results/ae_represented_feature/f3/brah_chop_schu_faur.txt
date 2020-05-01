@@ -1,0 +1,5 @@
+brahms_all, chopin_all, schubert_all, faure_all
+acc: 0.300187617260788
+vms: 0.0129472374869236
+nmi: 0.0129472374869236
+ari: -0.0032939092896672605

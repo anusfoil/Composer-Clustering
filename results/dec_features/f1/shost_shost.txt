@@ -1,0 +1,5 @@
+shostakovich_all, shostakovich_all
+acc: 0.5
+vms: -3.2563824318443394e-16
+nmi: -3.2563824318443394e-16
+ari: -0.004636136014861407

@@ -1,0 +1,5 @@
+soler_(c)contributors-kunstderf, dandrieu_(c)contributors-kunstderf
+acc: 0.603448275862069
+vms: 0.027894581534914507
+nmi: 0.02789458153491451
+ari: 0.03451470354080205

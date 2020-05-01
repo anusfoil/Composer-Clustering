@@ -1,0 +1,5 @@
+scriabin_(c)contributors-kunstderf, faure_(c)contributors-kunstderf
+acc: 0.6064516129032258
+vms: 0.028844363325718256
+nmi: 0.028844363325718252
+ari: 0.03901834388042569

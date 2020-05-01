@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, beethoven_
+acc: 0.6420454545454546
+vms: 0.03860082623905879
+nmi: 0.0386008262390588
+ari: 0.06621205022483462

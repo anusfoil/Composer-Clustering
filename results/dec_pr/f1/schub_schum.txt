@@ -1,0 +1,5 @@
+schubert_, schumann_(c)contributors-kunstderf
+acc: 0.5059760956175299
+vms: 4.156454601445857e-05
+nmi: 4.156454601445857e-05
+ari: -0.003056762821495647

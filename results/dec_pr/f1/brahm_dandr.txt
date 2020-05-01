@@ -1,0 +1,5 @@
+brahms_, dandrieu_(c)contributors-kunstderf
+acc: 0.6353591160220995
+vms: 0.0694632636102363
+nmi: 0.0694632636102363
+ari: 0.0683895730483372

@@ -1,0 +1,5 @@
+byrd_all, handel_all, chopin_all, scriabin_all
+acc: 0.6086261980830671
+vms: 0.5231897269417858
+nmi: 0.5249591065920372
+ari: 0.3671963400012712

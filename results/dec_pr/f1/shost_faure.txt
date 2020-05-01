@@ -1,0 +1,5 @@
+shostakovich_(c)contributors-kunstderf, faure_(c)contributors-kunstderf
+acc: 0.5529411764705883
+vms: 0.00634137777754574
+nmi: 0.006341377777545739
+ari: 0.00533737878757331

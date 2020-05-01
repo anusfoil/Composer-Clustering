@@ -1,0 +1,5 @@
+scarlatti_all, bach_all, byrd_all, buxtehude_all
+acc: 0.3636890951276102
+vms: 0.06000814768084339
+nmi: 0.06000814768084338
+ari: 0.0036917009510747936
