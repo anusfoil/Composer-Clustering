@@ -1,5 +1,0 @@
-debussy_, byrd_(c)contributors-kunstderf
-acc: 0.956989247311828
-vms: 0.7323829537190762
-nmi: 0.7323829537190762
-ari: 0.8339757107314617

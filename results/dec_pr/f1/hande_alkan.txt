@@ -1,5 +1,0 @@
-handel_, alkan_(c)contributors-kunstderf
-acc: 0.65
-vms: 0.06404159405459556
-nmi: 0.06404159405459556
-ari: 0.08799723015749313

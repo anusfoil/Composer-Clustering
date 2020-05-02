@@ -1,5 +1,0 @@
-alkan_(c)contributors-kunstderf, dvorak_(c)contributors-kunstderf
-acc: 0.6022304832713755
-vms: 0.004953184553536614
-nmi: 0.004953184553536614
-ari: 0.020052023671747427

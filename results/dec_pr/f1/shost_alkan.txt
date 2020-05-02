@@ -1,5 +1,0 @@
-shostakovich_(c)contributors-kunstderf, alkan_(c)contributors-kunstderf
-acc: 0.506578947368421
-vms: 0.00139222571762613
-nmi: 0.00139222571762613
-ari: -0.003464789803657434

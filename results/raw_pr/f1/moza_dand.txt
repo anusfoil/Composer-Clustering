@@ -1,5 +1,0 @@
-mozart_, dandrieu_(c)contributors-kunstderf
-acc: 0.8856447688564477
-vms: 0.22612754135941235
-nmi: 0.238360516770433
-ari: 0.35143752241759135

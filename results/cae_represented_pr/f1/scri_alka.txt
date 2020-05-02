@@ -1,5 +1,0 @@
-scriabin_(c)contributors-kunstderf, alkan_(c)contributors-kunstderf
-acc: 0.6262975778546713
-vms: 0.031074731418717128
-nmi: 0.031074731418717125
-ari: 0.056184115232960546

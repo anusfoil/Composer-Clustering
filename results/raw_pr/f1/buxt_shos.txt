@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
-acc: 0.5798816568047337
-vms: 0.016903875531537348
-nmi: 0.030021304913582597
-ari: -0.0070459944686155004

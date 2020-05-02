@@ -1,5 +1,0 @@
-dandrieu_(c)contributors-kunstderf, debussy_
-acc: 0.5125
-vms: 1.5957614835888448e-06
-nmi: 1.595761483588845e-06
-ari: -0.003183108263481292

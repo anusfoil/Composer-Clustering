@@ -1,5 +1,0 @@
-scarlatti_, soler_(c)contributors-kunstderf
-acc: 0.7138157894736842
-vms: 0.109795389447204
-nmi: 0.10979538944720399
-ari: 0.12673993811612042

@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, debussy_
-acc: 0.6951219512195121
-vms: 0.16166180232366412
-nmi: 0.16166180232366412
-ari: 0.1494772409904817

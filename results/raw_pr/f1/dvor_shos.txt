@@ -1,5 +1,0 @@
-dvorak_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
-acc: 0.6
-vms: 0.008613864171321409
-nmi: 0.01934881355135711
-ari: -0.004238235403703625

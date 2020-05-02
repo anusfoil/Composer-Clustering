@@ -1,5 +1,0 @@
-shostakovich_(c)contributors-kunstderf, brahms_
-acc: 0.6422018348623854
-vms: 0.06349484175145383
-nmi: 0.06349484175145383
-ari: 0.07664526037175737

@@ -1,5 +1,0 @@
-scarlatti_, bach_, byrd_(c)contributors-kunstderf, buxtehude_(c)contributors-kunstderf
-acc: 0.6283744974152786
-vms: 0.24787737759436848
-nmi: 0.3154000476148622
-ari: 0.15026792945124787

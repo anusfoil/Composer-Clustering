@@ -1,5 +1,0 @@
-byrd_(c)contributors-kunstderf, buxtehude_(c)contributors-kunstderf
-acc: 0.8888888888888888
-vms: 0.528286726999504
-nmi: 0.528286726999504
-ari: 0.6026670374103553

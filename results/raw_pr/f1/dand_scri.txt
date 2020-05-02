@@ -1,5 +1,0 @@
-dandrieu_(c)contributors-kunstderf, scriabin_(c)contributors-kunstderf
-acc: 0.581081081081081
-vms: 0.01605915901284903
-nmi: 0.03490863898672525
-ari: 0.004717004928891727

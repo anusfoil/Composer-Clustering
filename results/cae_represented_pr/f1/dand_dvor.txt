@@ -1,5 +1,0 @@
-dandrieu_(c)contributors-kunstderf, dvorak_(c)contributors-kunstderf
-acc: 0.6640625
-vms: 0.07900399731995922
-nmi: 0.07900399731995922
-ari: 0.10059249560466252

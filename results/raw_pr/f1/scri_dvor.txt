@@ -1,5 +1,0 @@
-scriabin_(c)contributors-kunstderf, dvorak_(c)contributors-kunstderf
-acc: 0.56
-vms: 0.010503277154583704
-nmi: 0.022977676492930945
-ari: -0.003136308805790219

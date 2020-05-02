@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, brahms_
-acc: 0.7486631016042781
-vms: 0.2769853276702162
-nmi: 0.2769853276702163
-ari: 0.24237998635165117

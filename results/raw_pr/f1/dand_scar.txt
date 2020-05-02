@@ -1,5 +1,0 @@
-dandrieu_(c)contributors-kunstderf, scarlatti_
-acc: 0.6035598705501618
-vms: 0.06664665813503991
-nmi: 0.06981886819493818
-ari: -0.06844981594251097

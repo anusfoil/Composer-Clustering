@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, scarlatti_
-acc: 0.6576
-vms: 0.0882352705619753
-nmi: 0.08823527056197529
-ari: 0.08320130086724482

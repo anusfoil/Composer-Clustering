@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, buxtehude_(c)contributors-kunstderf
-acc: 0.7050359712230215
-vms: 0.12500901400334227
-nmi: 0.12500901400334227
-ari: 0.16208779668136947

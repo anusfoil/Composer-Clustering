@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, beethoven_
-acc: 0.5010060362173038
-vms: 0.04650710851259322
-nmi: 0.04650710851259323
-ari: -0.021240238686392528

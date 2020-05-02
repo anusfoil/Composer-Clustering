@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, dvorak_(c)contributors-kunstderf
-acc: 0.7164179104477612
-vms: 0.1428786958086535
-nmi: 0.14287869580865345
-ari: 0.1813710982868575

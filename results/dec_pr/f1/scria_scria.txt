@@ -1,5 +1,0 @@
-scriabin_(c)contributors-kunstderf, scriabin_(c)contributors-kunstderf
-acc: 0.5
-vms: 6.407172862638781e-16
-nmi: 6.40717286263878e-16
-ari: -0.005951552190186084

@@ -1,5 +1,0 @@
-shostakovich_(c)contributors-kunstderf, handel_
-acc: 0.6179775280898876
-vms: 0.03794038569831584
-nmi: 0.03909646076657146
-ari: -0.06467927040755302

@@ -1,5 +1,0 @@
-shostakovich_(c)contributors-kunstderf, dandrieu_(c)contributors-kunstderf
-acc: 0.6196319018404908
-vms: 0.016641270086340303
-nmi: 0.037127787069282416
-ari: 0.0071977014043298196

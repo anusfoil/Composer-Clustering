@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, alkan_(c)contributors-kunstderf
-acc: 0.583941605839416
-vms: 0.0009562137723073274
-nmi: 0.0009562137723073275
-ari: 0.006381826585895204

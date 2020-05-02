@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
-acc: 0.9127906976744186
-vms: 0.6508515684737581
-nmi: 0.6509037991021924
-ari: 0.6797755473799576

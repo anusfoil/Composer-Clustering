@@ -1,5 +1,0 @@
-bach_all, beethoven_all, schubert_all, debussy_all
-acc: 0.42741061755146265
-vms: 0.14878101984720907
-nmi: 0.14878101984720904
-ari: 0.02599473590543777

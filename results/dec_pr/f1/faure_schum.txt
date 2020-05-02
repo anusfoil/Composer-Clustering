@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
-acc: 0.5072463768115942
-vms: 0.00011730232452760346
-nmi: 0.00011730232452760345
-ari: -0.007017477897495884

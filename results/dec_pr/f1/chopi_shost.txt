@@ -1,5 +1,0 @@
-chopin_, shostakovich_(c)contributors-kunstderf
-acc: 0.611336032388664
-vms: 0.03826184482812309
-nmi: 0.03826184482812309
-ari: 0.045844099362992156

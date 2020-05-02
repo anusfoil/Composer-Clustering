@@ -1,5 +1,0 @@
-schubert_, byrd_(c)contributors-kunstderf
-acc: 0.9473684210526315
-vms: 0.7255034315127376
-nmi: 0.7255034315127374
-ari: 0.7993249970872749

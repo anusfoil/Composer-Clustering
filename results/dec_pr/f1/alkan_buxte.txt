@@ -1,5 +1,0 @@
-alkan_(c)contributors-kunstderf, buxtehude_(c)contributors-kunstderf
-acc: 0.5787545787545788
-vms: 0.0950698990070889
-nmi: 0.0950698990070889
-ari: 0.009302598688073458

@@ -1,5 +1,0 @@
-scriabin_(c)contributors-kunstderf, soler_(c)contributors-kunstderf
-acc: 0.644927536231884
-vms: 0.05898115901332873
-nmi: 0.05898115901332874
-ari: 0.07741684891573607

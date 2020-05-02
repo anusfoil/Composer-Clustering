@@ -1,5 +1,0 @@
-scriabin_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf, debussy_, alkan_(c)contributors-kunstderf
-acc: 0.3215547703180212
-vms: 0.018714127379372603
-nmi: 0.018714127379372607
-ari: 0.013958301186847278

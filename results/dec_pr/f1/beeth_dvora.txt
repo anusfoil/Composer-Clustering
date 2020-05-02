@@ -1,5 +1,0 @@
-beethoven_, dvorak_(c)contributors-kunstderf
-acc: 0.6247464503042597
-vms: 0.0812420036690873
-nmi: 0.0812420036690873
-ari: 0.058500417951333455

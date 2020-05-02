@@ -1,5 +1,0 @@
-alkan_(c)contributors-kunstderf, haydn_
-acc: 0.75
-vms: 0.1474010057307252
-nmi: 0.1474010057307252
-ari: 0.23885914852526097

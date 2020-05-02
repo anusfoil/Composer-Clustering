@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, dandrieu_(c)contributors-kunstderf
-acc: 0.8421052631578947
-vms: 0.4196133831103207
-nmi: 0.4196133831103207
-ari: 0.46417266187050366

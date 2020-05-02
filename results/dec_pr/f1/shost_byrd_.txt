@@ -1,5 +1,0 @@
-shostakovich_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
-acc: 0.9108910891089109
-vms: 0.5778462429236231
-nmi: 0.5778462429236232
-ari: 0.6737104195084863

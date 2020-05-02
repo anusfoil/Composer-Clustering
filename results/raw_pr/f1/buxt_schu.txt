@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
-acc: 0.5109489051094891
-vms: 0.013962072830156207
-nmi: 0.029710356169337548
-ari: 0.00021472984495891844

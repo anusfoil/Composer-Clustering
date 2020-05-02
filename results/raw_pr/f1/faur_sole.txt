@@ -1,5 +1,0 @@
-faure_(c)contributors-kunstderf, soler_(c)contributors-kunstderf
-acc: 0.5772357723577236
-vms: 0.018852860636703217
-nmi: 0.038342683973342034
-ari: 0.005213627282604801

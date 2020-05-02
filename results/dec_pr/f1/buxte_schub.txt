@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, schubert_
-acc: 0.5952380952380952
-vms: 0.09662096022420068
-nmi: 0.09662096022420066
-ari: 0.02416091200720836

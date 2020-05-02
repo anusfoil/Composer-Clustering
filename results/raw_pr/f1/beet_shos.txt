@@ -1,5 +1,0 @@
-beethoven_, shostakovich_(c)contributors-kunstderf
-acc: 0.8087121212121212
-vms: 0.0015952283325994438
-nmi: 0.004870442611637843
-ari: -0.00288917342157778

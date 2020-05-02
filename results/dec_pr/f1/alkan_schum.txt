@@ -1,5 +1,0 @@
-alkan_(c)contributors-kunstderf, schumann_(c)contributors-kunstderf
-acc: 0.5698529411764706
-vms: 1.6194811074970798e-05
-nmi: 1.6194811074970798e-05
-ari: -0.0036653727854444556

@@ -1,5 +1,0 @@
-buxtehude_all, haydn_all, brahms_all, alkan_all
-acc: 0.330188679245283
-vms: 0.055314963400051334
-nmi: 0.05531496340005134
-ari: 0.012451075716229632

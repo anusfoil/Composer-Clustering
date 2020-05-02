@@ -1,5 +1,0 @@
-soler_(c)contributors-kunstderf, byrd_(c)contributors-kunstderf
-acc: 0.9032258064516129
-vms: 0.6187469413917741
-nmi: 0.618746941391774
-ari: 0.6478078510119923

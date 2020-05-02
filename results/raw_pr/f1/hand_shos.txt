@@ -1,5 +1,0 @@
-handel_, shostakovich_(c)contributors-kunstderf
-acc: 0.7219101123595506
-vms: 0.0116680475162457
-nmi: 0.03340566874270326
-ari: 0.008741045222039166

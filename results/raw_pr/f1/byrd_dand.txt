@@ -1,5 +1,0 @@
-byrd_(c)contributors-kunstderf, dandrieu_(c)contributors-kunstderf
-acc: 0.6242424242424243
-vms: 0.01671144614006039
-nmi: 0.03739905144502951
-ari: 0.007494023431539296

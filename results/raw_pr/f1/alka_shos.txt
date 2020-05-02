@@ -1,5 +1,0 @@
-alkan_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
-acc: 0.6677631578947368
-vms: 0.00401163748688064
-nmi: 0.011115526443821624
-ari: -0.0033482976482073004

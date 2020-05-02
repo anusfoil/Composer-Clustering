@@ -1,5 +1,0 @@
-scarlatti_, mozart_, faure_(c)contributors-kunstderf, shostakovich_(c)contributors-kunstderf
-acc: 0.5899347623485555
-vms: 0.39502318693748223
-nmi: 0.39502318693748223
-ari: 0.39747272560760055

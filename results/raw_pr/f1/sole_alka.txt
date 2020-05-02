@@ -1,5 +1,0 @@
-soler_(c)contributors-kunstderf, alkan_(c)contributors-kunstderf
-acc: 0.7898832684824902
-vms: 0.003370712909312454
-nmi: 0.00790984457389666
-ari: -0.005713922608227558

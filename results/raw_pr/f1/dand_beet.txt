@@ -1,5 +1,0 @@
-dandrieu_(c)contributors-kunstderf, beethoven_
-acc: 0.869653767820774
-vms: 0.004087704096664338
-nmi: 0.00719320904141983
-ari: 0.015976406013467108

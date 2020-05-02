@@ -1,5 +1,0 @@
-byrd_(c)contributors-kunstderf, scriabin_(c)contributors-kunstderf
-acc: 0.9090909090909091
-vms: 0.5989167344837932
-nmi: 0.5989167344837932
-ari: 0.6676471540460112

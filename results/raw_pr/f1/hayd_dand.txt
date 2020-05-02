@@ -1,5 +1,0 @@
-haydn_, dandrieu_(c)contributors-kunstderf
-acc: 0.8943248532289628
-vms: 0.1511464558593197
-nmi: 0.1831247437382584
-ari: 0.2126071007544376

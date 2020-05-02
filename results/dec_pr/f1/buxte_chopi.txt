@@ -1,5 +1,0 @@
-buxtehude_(c)contributors-kunstderf, chopin_
-acc: 0.8287037037037037
-vms: 0.38885044773615735
-nmi: 0.38885044773615735
-ari: 0.429257761933309
